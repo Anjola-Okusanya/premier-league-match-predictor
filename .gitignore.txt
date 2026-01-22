@@ -1,0 +1,10 @@
+
+data_raw_future
+
+.docx
+
+__pycache__
+
+.venv
+
+env

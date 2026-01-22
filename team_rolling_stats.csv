@@ -1,0 +1,761 @@
+Date,Team,Opponent,GoalsScored,GoalsConceded,HomeAway,Result,Points,Form,GoalsScoredLast5,GoalsConcededLast5,WinsLast5
+2024-08-16,Man United,Fulham,1,0,Home,W,3,,,,
+2024-08-24,Man United,Brighton,1,2,Away,L,0,,,,
+2024-09-01,Man United,Liverpool,0,3,Home,L,0,,,,
+2024-09-14,Man United,Southampton,3,0,Away,W,3,,,,
+2024-09-21,Man United,Crystal Palace,0,0,Away,D,1,7.0,5.0,5.0,2.0
+2024-09-29,Man United,Tottenham,0,3,Home,L,0,4.0,4.0,8.0,1.0
+2024-10-06,Man United,Aston Villa,0,0,Away,D,1,5.0,3.0,6.0,1.0
+2024-10-19,Man United,Brentford,2,1,Home,W,3,8.0,5.0,4.0,2.0
+2024-10-27,Man United,West Ham,1,2,Away,L,0,5.0,3.0,6.0,1.0
+2024-11-03,Man United,Chelsea,1,1,Home,D,1,5.0,4.0,7.0,1.0
+2024-11-10,Man United,Leicester,3,0,Home,W,3,8.0,7.0,4.0,2.0
+2024-11-24,Man United,Ipswich,1,1,Away,D,1,8.0,8.0,5.0,2.0
+2024-12-01,Man United,Everton,4,0,Home,W,3,8.0,10.0,4.0,2.0
+2024-12-04,Man United,Arsenal,0,2,Away,L,0,8.0,9.0,4.0,2.0
+2024-12-07,Man United,Nott'm Forest,2,3,Home,L,0,7.0,10.0,6.0,2.0
+2024-12-15,Man United,Man City,2,1,Away,W,3,7.0,9.0,7.0,2.0
+2024-12-22,Man United,Bournemouth,0,3,Home,L,0,6.0,8.0,9.0,2.0
+2024-12-26,Man United,Wolves,0,2,Away,L,0,3.0,4.0,11.0,1.0
+2024-12-30,Man United,Newcastle,0,2,Home,L,0,3.0,4.0,11.0,1.0
+2025-01-05,Man United,Liverpool,2,2,Away,D,1,4.0,4.0,10.0,1.0
+2025-01-16,Man United,Southampton,3,1,Home,W,3,4.0,5.0,10.0,1.0
+2025-01-19,Man United,Brighton,1,3,Home,L,0,4.0,6.0,10.0,1.0
+2025-01-26,Man United,Fulham,1,0,Away,W,3,7.0,7.0,8.0,2.0
+2025-02-02,Man United,Crystal Palace,0,2,Home,L,0,7.0,7.0,8.0,2.0
+2025-02-16,Man United,Tottenham,0,1,Away,L,0,6.0,5.0,7.0,2.0
+2025-02-22,Man United,Everton,2,2,Away,D,1,4.0,4.0,8.0,1.0
+2025-02-26,Man United,Ipswich,3,2,Home,W,3,7.0,6.0,7.0,2.0
+2025-03-09,Man United,Arsenal,1,1,Home,D,1,5.0,6.0,8.0,1.0
+2025-03-16,Man United,Leicester,3,0,Away,W,3,8.0,9.0,6.0,2.0
+2025-04-01,Man United,Nott'm Forest,0,1,Away,L,0,8.0,9.0,6.0,2.0
+2025-04-06,Man United,Man City,0,0,Home,D,1,8.0,7.0,4.0,2.0
+2025-04-13,Man United,Newcastle,1,4,Away,L,0,5.0,5.0,6.0,1.0
+2025-04-20,Man United,Wolves,0,1,Home,L,0,4.0,4.0,6.0,1.0
+2025-04-27,Man United,Bournemouth,1,1,Away,D,1,2.0,2.0,7.0,0.0
+2025-05-04,Man United,Brentford,3,4,Away,L,0,2.0,5.0,10.0,0.0
+2025-05-11,Man United,West Ham,0,2,Home,L,0,1.0,5.0,12.0,0.0
+2025-05-16,Man United,Chelsea,0,1,Away,L,0,1.0,4.0,9.0,0.0
+2025-05-25,Man United,Aston Villa,2,0,Home,W,3,4.0,6.0,8.0,1.0
+2024-08-17,Ipswich,Liverpool,0,2,Home,L,0,,,,
+2024-08-24,Ipswich,Man City,1,4,Away,L,0,,,,
+2024-08-31,Ipswich,Fulham,1,1,Home,D,1,,,,
+2024-09-14,Ipswich,Brighton,0,0,Away,D,1,,,,
+2024-09-21,Ipswich,Southampton,1,1,Away,D,1,3.0,3.0,8.0,0.0
+2024-09-29,Ipswich,Aston Villa,2,2,Home,D,1,4.0,5.0,8.0,0.0
+2024-10-05,Ipswich,West Ham,1,4,Away,L,0,4.0,5.0,8.0,0.0
+2024-10-19,Ipswich,Everton,0,2,Home,L,0,3.0,4.0,9.0,0.0
+2024-10-26,Ipswich,Brentford,3,4,Away,L,0,2.0,7.0,13.0,0.0
+2024-11-02,Ipswich,Leicester,1,1,Home,D,1,2.0,7.0,13.0,0.0
+2024-11-10,Ipswich,Tottenham,2,1,Away,W,3,4.0,7.0,12.0,1.0
+2024-11-24,Ipswich,Man United,1,1,Home,D,1,5.0,7.0,9.0,1.0
+2024-11-30,Ipswich,Nott'm Forest,0,1,Away,L,0,5.0,7.0,8.0,1.0
+2024-12-03,Ipswich,Crystal Palace,0,1,Home,L,0,5.0,4.0,5.0,1.0
+2024-12-08,Ipswich,Bournemouth,1,2,Home,L,0,4.0,4.0,6.0,1.0
+2024-12-14,Ipswich,Wolves,2,1,Away,W,3,4.0,4.0,6.0,1.0
+2024-12-21,Ipswich,Newcastle,0,4,Home,L,0,3.0,3.0,9.0,1.0
+2024-12-27,Ipswich,Arsenal,0,1,Away,L,0,3.0,3.0,9.0,1.0
+2024-12-30,Ipswich,Chelsea,2,0,Home,W,3,6.0,5.0,8.0,2.0
+2025-01-05,Ipswich,Fulham,2,2,Away,D,1,7.0,6.0,8.0,2.0
+2025-01-16,Ipswich,Brighton,0,2,Home,L,0,4.0,4.0,9.0,1.0
+2025-01-19,Ipswich,Man City,0,6,Home,L,0,4.0,4.0,11.0,1.0
+2025-01-25,Ipswich,Liverpool,1,4,Away,L,0,4.0,5.0,14.0,1.0
+2025-02-01,Ipswich,Southampton,1,2,Home,L,0,1.0,4.0,16.0,0.0
+2025-02-15,Ipswich,Aston Villa,1,1,Away,D,1,1.0,3.0,15.0,0.0
+2025-02-22,Ipswich,Tottenham,1,4,Home,L,0,1.0,4.0,17.0,0.0
+2025-02-26,Ipswich,Man United,2,3,Away,L,0,1.0,6.0,14.0,0.0
+2025-03-08,Ipswich,Crystal Palace,0,1,Away,L,0,1.0,5.0,11.0,0.0
+2025-03-15,Ipswich,Nott'm Forest,2,4,Home,L,0,1.0,6.0,13.0,0.0
+2025-04-02,Ipswich,Bournemouth,2,1,Away,W,3,3.0,7.0,13.0,1.0
+2025-04-05,Ipswich,Wolves,1,2,Home,L,0,3.0,7.0,11.0,1.0
+2025-04-13,Ipswich,Chelsea,2,2,Away,D,1,4.0,7.0,10.0,1.0
+2025-04-20,Ipswich,Arsenal,0,4,Home,L,0,4.0,7.0,13.0,1.0
+2025-04-26,Ipswich,Newcastle,0,3,Away,L,0,4.0,5.0,12.0,1.0
+2025-05-03,Ipswich,Everton,2,2,Away,D,1,2.0,5.0,13.0,0.0
+2025-05-10,Ipswich,Brentford,0,1,Home,L,0,2.0,4.0,12.0,0.0
+2025-05-18,Ipswich,Leicester,0,2,Away,L,0,1.0,2.0,12.0,0.0
+2025-05-25,Ipswich,West Ham,1,3,Home,L,0,1.0,3.0,11.0,0.0
+2024-08-17,Arsenal,Wolves,2,0,Home,W,3,,,,
+2024-08-24,Arsenal,Aston Villa,2,0,Away,W,3,,,,
+2024-08-31,Arsenal,Brighton,1,1,Home,D,1,,,,
+2024-09-15,Arsenal,Tottenham,1,0,Away,W,3,,,,
+2024-09-22,Arsenal,Man City,2,2,Away,D,1,11.0,8.0,3.0,3.0
+2024-09-28,Arsenal,Leicester,4,2,Home,W,3,11.0,10.0,5.0,3.0
+2024-10-05,Arsenal,Southampton,3,1,Home,W,3,11.0,11.0,6.0,3.0
+2024-10-19,Arsenal,Bournemouth,0,2,Away,L,0,10.0,10.0,7.0,3.0
+2024-10-27,Arsenal,Liverpool,2,2,Home,D,1,8.0,11.0,9.0,2.0
+2024-11-02,Arsenal,Newcastle,0,1,Away,L,0,7.0,9.0,8.0,2.0
+2024-11-10,Arsenal,Chelsea,1,1,Away,D,1,5.0,6.0,7.0,1.0
+2024-11-23,Arsenal,Nott'm Forest,3,0,Home,W,3,5.0,6.0,6.0,1.0
+2024-11-30,Arsenal,West Ham,5,2,Away,W,3,8.0,11.0,6.0,2.0
+2024-12-04,Arsenal,Man United,2,0,Home,W,3,10.0,11.0,4.0,3.0
+2024-12-08,Arsenal,Fulham,1,1,Away,D,1,11.0,12.0,4.0,3.0
+2024-12-14,Arsenal,Everton,0,0,Home,D,1,11.0,11.0,3.0,3.0
+2024-12-21,Arsenal,Crystal Palace,5,1,Away,W,3,11.0,13.0,4.0,3.0
+2024-12-27,Arsenal,Ipswich,1,0,Home,W,3,11.0,9.0,2.0,3.0
+2025-01-01,Arsenal,Brentford,3,1,Away,W,3,11.0,10.0,3.0,3.0
+2025-01-04,Arsenal,Brighton,1,1,Away,D,1,11.0,10.0,3.0,3.0
+2025-01-15,Arsenal,Tottenham,2,1,Home,W,3,13.0,12.0,4.0,4.0
+2025-01-18,Arsenal,Aston Villa,2,2,Home,D,1,11.0,9.0,5.0,3.0
+2025-01-25,Arsenal,Wolves,1,0,Away,W,3,11.0,9.0,5.0,3.0
+2025-02-02,Arsenal,Man City,5,1,Home,W,3,11.0,11.0,5.0,3.0
+2025-02-15,Arsenal,Leicester,2,0,Away,W,3,13.0,12.0,4.0,4.0
+2025-02-22,Arsenal,West Ham,0,1,Home,L,0,10.0,10.0,4.0,3.0
+2025-02-26,Arsenal,Nott'm Forest,0,0,Away,D,1,10.0,8.0,2.0,3.0
+2025-03-09,Arsenal,Man United,1,1,Away,D,1,8.0,8.0,3.0,2.0
+2025-03-16,Arsenal,Chelsea,1,0,Home,W,3,8.0,4.0,2.0,2.0
+2025-04-01,Arsenal,Fulham,2,1,Home,W,3,8.0,4.0,3.0,2.0
+2025-04-05,Arsenal,Everton,1,1,Away,D,1,9.0,5.0,3.0,2.0
+2025-04-12,Arsenal,Brentford,1,1,Home,D,1,9.0,6.0,4.0,2.0
+2025-04-20,Arsenal,Ipswich,4,0,Away,W,3,11.0,9.0,3.0,3.0
+2025-04-23,Arsenal,Crystal Palace,2,2,Home,D,1,9.0,10.0,5.0,2.0
+2025-05-03,Arsenal,Bournemouth,1,2,Home,L,0,6.0,9.0,6.0,1.0
+2025-05-11,Arsenal,Liverpool,2,2,Away,D,1,6.0,10.0,7.0,1.0
+2025-05-18,Arsenal,Newcastle,1,0,Home,W,3,8.0,10.0,6.0,2.0
+2025-05-25,Arsenal,Southampton,2,1,Away,W,3,8.0,8.0,7.0,2.0
+2024-08-17,Everton,Brighton,0,3,Home,L,0,,,,
+2024-08-24,Everton,Tottenham,0,4,Away,L,0,,,,
+2024-08-31,Everton,Bournemouth,2,3,Home,L,0,,,,
+2024-09-14,Everton,Aston Villa,2,3,Away,L,0,,,,
+2024-09-21,Everton,Leicester,1,1,Away,D,1,1.0,5.0,14.0,0.0
+2024-09-28,Everton,Crystal Palace,2,1,Home,W,3,4.0,7.0,12.0,1.0
+2024-10-05,Everton,Newcastle,0,0,Home,D,1,5.0,7.0,8.0,1.0
+2024-10-19,Everton,Ipswich,2,0,Away,W,3,8.0,7.0,5.0,2.0
+2024-10-26,Everton,Fulham,1,1,Home,D,1,9.0,6.0,3.0,2.0
+2024-11-02,Everton,Southampton,0,1,Away,L,0,8.0,5.0,3.0,2.0
+2024-11-09,Everton,West Ham,0,0,Away,D,1,6.0,3.0,2.0,1.0
+2024-11-23,Everton,Brentford,0,0,Home,D,1,6.0,3.0,2.0,1.0
+2024-12-01,Everton,Man United,0,4,Away,L,0,3.0,1.0,6.0,0.0
+2024-12-04,Everton,Wolves,4,0,Home,W,3,5.0,4.0,5.0,1.0
+2024-12-14,Everton,Arsenal,0,0,Away,D,1,6.0,4.0,4.0,1.0
+2024-12-22,Everton,Chelsea,0,0,Home,D,1,6.0,4.0,4.0,1.0
+2024-12-26,Everton,Man City,1,1,Away,D,1,6.0,5.0,5.0,1.0
+2024-12-29,Everton,Nott'm Forest,0,2,Home,L,0,6.0,5.0,3.0,1.0
+2025-01-04,Everton,Bournemouth,0,1,Away,L,0,3.0,1.0,4.0,0.0
+2025-01-15,Everton,Aston Villa,0,1,Home,L,0,2.0,1.0,5.0,0.0
+2025-01-19,Everton,Tottenham,3,2,Home,W,3,4.0,4.0,7.0,1.0
+2025-01-25,Everton,Brighton,1,0,Away,W,3,6.0,4.0,6.0,2.0
+2025-02-01,Everton,Leicester,4,0,Home,W,3,9.0,8.0,4.0,3.0
+2025-02-12,Everton,Liverpool,2,2,Home,D,1,10.0,10.0,5.0,3.0
+2025-02-15,Everton,Crystal Palace,2,1,Away,W,3,13.0,12.0,5.0,4.0
+2025-02-22,Everton,Man United,2,2,Home,D,1,11.0,11.0,5.0,3.0
+2025-02-26,Everton,Brentford,1,1,Away,D,1,9.0,11.0,6.0,2.0
+2025-03-08,Everton,Wolves,1,1,Away,D,1,7.0,8.0,7.0,1.0
+2025-03-15,Everton,West Ham,1,1,Home,D,1,7.0,7.0,6.0,1.0
+2025-04-02,Everton,Liverpool,0,1,Away,L,0,4.0,5.0,6.0,0.0
+2025-04-05,Everton,Arsenal,1,1,Home,D,1,4.0,4.0,5.0,0.0
+2025-04-12,Everton,Nott'm Forest,1,0,Away,W,3,6.0,4.0,4.0,1.0
+2025-04-19,Everton,Man City,0,2,Home,L,0,5.0,3.0,5.0,1.0
+2025-04-26,Everton,Chelsea,0,1,Away,L,0,4.0,2.0,5.0,1.0
+2025-05-03,Everton,Ipswich,2,2,Home,D,1,5.0,4.0,6.0,1.0
+2025-05-10,Everton,Fulham,3,1,Away,W,3,7.0,6.0,6.0,2.0
+2025-05-18,Everton,Southampton,2,0,Home,W,3,7.0,7.0,6.0,2.0
+2025-05-25,Everton,Newcastle,1,0,Away,W,3,10.0,8.0,4.0,3.0
+2024-08-17,Newcastle,Southampton,1,0,Home,W,3,,,,
+2024-08-25,Newcastle,Bournemouth,1,1,Away,D,1,,,,
+2024-09-01,Newcastle,Tottenham,2,1,Home,W,3,,,,
+2024-09-15,Newcastle,Wolves,2,1,Away,W,3,,,,
+2024-09-21,Newcastle,Fulham,1,3,Away,L,0,10.0,7.0,6.0,3.0
+2024-09-28,Newcastle,Man City,1,1,Home,D,1,8.0,7.0,7.0,2.0
+2024-10-05,Newcastle,Everton,0,0,Away,D,1,8.0,6.0,6.0,2.0
+2024-10-19,Newcastle,Brighton,0,1,Home,L,0,5.0,4.0,6.0,1.0
+2024-10-27,Newcastle,Chelsea,1,2,Away,L,0,2.0,3.0,7.0,0.0
+2024-11-02,Newcastle,Arsenal,1,0,Home,W,3,5.0,3.0,4.0,1.0
+2024-11-10,Newcastle,Nott'm Forest,3,1,Away,W,3,7.0,5.0,4.0,2.0
+2024-11-25,Newcastle,West Ham,0,2,Home,L,0,6.0,5.0,6.0,2.0
+2024-11-30,Newcastle,Crystal Palace,1,1,Away,D,1,7.0,6.0,6.0,2.0
+2024-12-04,Newcastle,Liverpool,3,3,Home,D,1,8.0,8.0,7.0,2.0
+2024-12-07,Newcastle,Brentford,2,4,Away,L,0,5.0,9.0,11.0,1.0
+2024-12-14,Newcastle,Leicester,4,0,Home,W,3,5.0,10.0,10.0,1.0
+2024-12-21,Newcastle,Ipswich,4,0,Away,W,3,8.0,14.0,8.0,2.0
+2024-12-26,Newcastle,Aston Villa,3,0,Home,W,3,10.0,16.0,7.0,3.0
+2024-12-30,Newcastle,Man United,2,0,Away,W,3,12.0,15.0,4.0,4.0
+2025-01-04,Newcastle,Tottenham,2,1,Away,W,3,15.0,15.0,1.0,5.0
+2025-01-15,Newcastle,Wolves,3,0,Home,W,3,15.0,14.0,1.0,5.0
+2025-01-18,Newcastle,Bournemouth,1,4,Home,L,0,12.0,11.0,5.0,4.0
+2025-01-25,Newcastle,Southampton,3,1,Away,W,3,12.0,11.0,6.0,4.0
+2025-02-01,Newcastle,Fulham,1,2,Home,L,0,9.0,10.0,8.0,3.0
+2025-02-15,Newcastle,Man City,0,4,Away,L,0,6.0,8.0,11.0,2.0
+2025-02-23,Newcastle,Nott'm Forest,4,3,Home,W,3,6.0,9.0,14.0,2.0
+2025-02-26,Newcastle,Liverpool,0,2,Away,L,0,6.0,8.0,12.0,2.0
+2025-03-10,Newcastle,West Ham,1,0,Away,W,3,6.0,6.0,11.0,2.0
+2025-04-02,Newcastle,Brentford,2,1,Home,W,3,9.0,7.0,10.0,3.0
+2025-04-07,Newcastle,Leicester,3,0,Away,W,3,12.0,10.0,6.0,4.0
+2025-04-13,Newcastle,Man United,4,1,Home,W,3,12.0,10.0,4.0,4.0
+2025-04-16,Newcastle,Crystal Palace,5,0,Home,W,3,15.0,15.0,2.0,5.0
+2025-04-19,Newcastle,Aston Villa,1,4,Away,L,0,12.0,15.0,6.0,4.0
+2025-04-26,Newcastle,Ipswich,3,0,Home,W,3,12.0,16.0,5.0,4.0
+2025-05-04,Newcastle,Brighton,1,1,Away,D,1,10.0,14.0,6.0,3.0
+2025-05-11,Newcastle,Chelsea,2,0,Home,W,3,10.0,12.0,5.0,3.0
+2025-05-18,Newcastle,Arsenal,0,1,Away,L,0,7.0,7.0,6.0,2.0
+2025-05-25,Newcastle,Everton,0,1,Home,L,0,7.0,6.0,3.0,2.0
+2024-08-17,Nott'm Forest,Bournemouth,1,1,Home,D,1,,,,
+2024-08-24,Nott'm Forest,Southampton,1,0,Away,W,3,,,,
+2024-08-31,Nott'm Forest,Wolves,1,1,Home,D,1,,,,
+2024-09-14,Nott'm Forest,Liverpool,1,0,Away,W,3,,,,
+2024-09-22,Nott'm Forest,Brighton,2,2,Away,D,1,9.0,6.0,4.0,2.0
+2024-09-28,Nott'm Forest,Fulham,0,1,Home,L,0,8.0,5.0,4.0,2.0
+2024-10-06,Nott'm Forest,Chelsea,1,1,Away,D,1,6.0,5.0,5.0,1.0
+2024-10-21,Nott'm Forest,Crystal Palace,1,0,Home,W,3,8.0,5.0,4.0,2.0
+2024-10-25,Nott'm Forest,Leicester,3,1,Away,W,3,8.0,7.0,5.0,2.0
+2024-11-02,Nott'm Forest,West Ham,3,0,Home,W,3,10.0,8.0,3.0,3.0
+2024-11-10,Nott'm Forest,Newcastle,1,3,Home,L,0,10.0,9.0,5.0,3.0
+2024-11-23,Nott'm Forest,Arsenal,0,3,Away,L,0,9.0,8.0,7.0,3.0
+2024-11-30,Nott'm Forest,Ipswich,1,0,Home,W,3,9.0,8.0,7.0,3.0
+2024-12-04,Nott'm Forest,Man City,0,3,Away,L,0,6.0,5.0,9.0,2.0
+2024-12-07,Nott'm Forest,Man United,3,2,Away,W,3,6.0,5.0,11.0,2.0
+2024-12-14,Nott'm Forest,Aston Villa,2,1,Home,W,3,9.0,6.0,9.0,3.0
+2024-12-21,Nott'm Forest,Brentford,2,0,Away,W,3,12.0,8.0,6.0,4.0
+2024-12-26,Nott'm Forest,Tottenham,1,0,Home,W,3,12.0,8.0,6.0,4.0
+2024-12-29,Nott'm Forest,Everton,2,0,Away,W,3,15.0,10.0,3.0,5.0
+2025-01-06,Nott'm Forest,Wolves,3,0,Away,W,3,15.0,10.0,1.0,5.0
+2025-01-14,Nott'm Forest,Liverpool,1,1,Home,D,1,13.0,9.0,1.0,4.0
+2025-01-19,Nott'm Forest,Southampton,3,2,Home,W,3,13.0,10.0,3.0,4.0
+2025-01-25,Nott'm Forest,Bournemouth,0,5,Away,L,0,10.0,9.0,8.0,3.0
+2025-02-01,Nott'm Forest,Brighton,7,0,Home,W,3,10.0,14.0,8.0,3.0
+2025-02-15,Nott'm Forest,Fulham,1,2,Away,L,0,7.0,12.0,10.0,2.0
+2025-02-23,Nott'm Forest,Newcastle,3,4,Away,L,0,6.0,14.0,13.0,2.0
+2025-02-26,Nott'm Forest,Arsenal,0,0,Home,D,1,4.0,11.0,11.0,1.0
+2025-03-08,Nott'm Forest,Man City,1,0,Home,W,3,7.0,12.0,6.0,2.0
+2025-03-15,Nott'm Forest,Ipswich,4,2,Away,W,3,7.0,9.0,8.0,2.0
+2025-04-01,Nott'm Forest,Man United,1,0,Home,W,3,10.0,9.0,6.0,3.0
+2025-04-05,Nott'm Forest,Aston Villa,1,2,Away,L,0,10.0,7.0,4.0,3.0
+2025-04-12,Nott'm Forest,Everton,0,1,Home,L,0,9.0,7.0,5.0,3.0
+2025-04-21,Nott'm Forest,Tottenham,2,1,Away,W,3,9.0,8.0,6.0,3.0
+2025-05-01,Nott'm Forest,Brentford,0,2,Home,L,0,6.0,4.0,6.0,2.0
+2025-05-05,Nott'm Forest,Crystal Palace,1,1,Away,D,1,4.0,4.0,7.0,1.0
+2025-05-11,Nott'm Forest,Leicester,2,2,Home,D,1,5.0,5.0,7.0,1.0
+2025-05-18,Nott'm Forest,West Ham,2,1,Away,W,3,8.0,7.0,7.0,2.0
+2025-05-25,Nott'm Forest,Chelsea,0,1,Home,L,0,5.0,5.0,7.0,1.0
+2024-08-17,West Ham,Aston Villa,1,2,Home,L,0,,,,
+2024-08-24,West Ham,Crystal Palace,2,0,Away,W,3,,,,
+2024-08-31,West Ham,Man City,1,3,Home,L,0,,,,
+2024-09-14,West Ham,Fulham,1,1,Away,D,1,,,,
+2024-09-21,West Ham,Chelsea,0,3,Home,L,0,4.0,5.0,9.0,1.0
+2024-09-28,West Ham,Brentford,1,1,Away,D,1,5.0,5.0,8.0,1.0
+2024-10-05,West Ham,Ipswich,4,1,Home,W,3,5.0,7.0,9.0,1.0
+2024-10-19,West Ham,Tottenham,1,4,Away,L,0,5.0,7.0,10.0,1.0
+2024-10-27,West Ham,Man United,2,1,Home,W,3,7.0,8.0,10.0,2.0
+2024-11-02,West Ham,Nott'm Forest,0,3,Away,L,0,7.0,8.0,10.0,2.0
+2024-11-09,West Ham,Everton,0,0,Home,D,1,7.0,7.0,9.0,2.0
+2024-11-25,West Ham,Newcastle,2,0,Away,W,3,7.0,5.0,8.0,2.0
+2024-11-30,West Ham,Arsenal,2,5,Home,L,0,7.0,6.0,9.0,2.0
+2024-12-03,West Ham,Leicester,1,3,Away,L,0,4.0,5.0,11.0,1.0
+2024-12-09,West Ham,Wolves,2,1,Home,W,3,7.0,7.0,9.0,2.0
+2024-12-16,West Ham,Bournemouth,1,1,Away,D,1,7.0,8.0,10.0,2.0
+2024-12-21,West Ham,Brighton,1,1,Home,D,1,5.0,7.0,11.0,1.0
+2024-12-26,West Ham,Southampton,1,0,Away,W,3,8.0,6.0,6.0,2.0
+2024-12-29,West Ham,Liverpool,0,5,Home,L,0,8.0,5.0,8.0,2.0
+2025-01-04,West Ham,Man City,1,4,Away,L,0,5.0,4.0,11.0,1.0
+2025-01-14,West Ham,Fulham,3,2,Home,W,3,7.0,6.0,12.0,2.0
+2025-01-18,West Ham,Crystal Palace,0,2,Home,L,0,6.0,5.0,13.0,2.0
+2025-01-26,West Ham,Aston Villa,1,1,Away,D,1,4.0,5.0,14.0,1.0
+2025-02-03,West Ham,Chelsea,1,2,Away,L,0,4.0,6.0,11.0,1.0
+2025-02-15,West Ham,Brentford,0,1,Home,L,0,4.0,5.0,8.0,1.0
+2025-02-22,West Ham,Arsenal,1,0,Away,W,3,4.0,3.0,6.0,1.0
+2025-02-27,West Ham,Leicester,2,0,Home,W,3,7.0,5.0,4.0,2.0
+2025-03-10,West Ham,Newcastle,0,1,Home,L,0,6.0,4.0,4.0,2.0
+2025-03-15,West Ham,Everton,1,1,Away,D,1,7.0,4.0,3.0,2.0
+2025-04-01,West Ham,Wolves,0,1,Away,L,0,7.0,4.0,3.0,2.0
+2025-04-05,West Ham,Bournemouth,2,2,Home,D,1,5.0,5.0,5.0,1.0
+2025-04-13,West Ham,Liverpool,1,2,Away,L,0,2.0,4.0,7.0,0.0
+2025-04-19,West Ham,Southampton,1,1,Home,D,1,3.0,5.0,7.0,0.0
+2025-04-26,West Ham,Brighton,2,3,Away,L,0,2.0,6.0,9.0,0.0
+2025-05-04,West Ham,Tottenham,1,1,Home,D,1,3.0,7.0,9.0,0.0
+2025-05-11,West Ham,Man United,2,0,Away,W,3,5.0,7.0,7.0,1.0
+2025-05-18,West Ham,Nott'm Forest,1,2,Home,L,0,5.0,7.0,7.0,1.0
+2025-05-25,West Ham,Ipswich,3,1,Away,W,3,7.0,9.0,7.0,2.0
+2024-08-18,Brentford,Crystal Palace,2,1,Home,W,3,,,,
+2024-08-25,Brentford,Liverpool,0,2,Away,L,0,,,,
+2024-08-31,Brentford,Southampton,3,1,Home,W,3,,,,
+2024-09-14,Brentford,Man City,1,2,Away,L,0,,,,
+2024-09-21,Brentford,Tottenham,1,3,Away,L,0,6.0,7.0,9.0,2.0
+2024-09-28,Brentford,West Ham,1,1,Home,D,1,4.0,6.0,9.0,1.0
+2024-10-05,Brentford,Wolves,5,3,Home,W,3,7.0,11.0,10.0,2.0
+2024-10-19,Brentford,Man United,1,2,Away,L,0,4.0,9.0,11.0,1.0
+2024-10-26,Brentford,Ipswich,4,3,Home,W,3,7.0,12.0,12.0,2.0
+2024-11-04,Brentford,Fulham,1,2,Away,L,0,7.0,12.0,11.0,2.0
+2024-11-09,Brentford,Bournemouth,3,2,Home,W,3,9.0,14.0,12.0,3.0
+2024-11-23,Brentford,Everton,0,0,Away,D,1,7.0,9.0,9.0,2.0
+2024-11-30,Brentford,Leicester,4,1,Home,W,3,10.0,12.0,8.0,3.0
+2024-12-04,Brentford,Aston Villa,1,3,Away,L,0,7.0,9.0,8.0,2.0
+2024-12-07,Brentford,Newcastle,4,2,Home,W,3,10.0,12.0,8.0,3.0
+2024-12-15,Brentford,Chelsea,1,2,Away,L,0,7.0,10.0,8.0,2.0
+2024-12-21,Brentford,Nott'm Forest,0,2,Home,L,0,6.0,10.0,10.0,2.0
+2024-12-27,Brentford,Brighton,0,0,Away,D,1,4.0,6.0,9.0,1.0
+2025-01-01,Brentford,Arsenal,1,3,Home,L,0,4.0,6.0,9.0,1.0
+2025-01-04,Brentford,Southampton,5,0,Away,W,3,4.0,7.0,7.0,1.0
+2025-01-14,Brentford,Man City,2,2,Home,D,1,5.0,8.0,7.0,1.0
+2025-01-18,Brentford,Liverpool,0,2,Home,L,0,5.0,8.0,7.0,1.0
+2025-01-26,Brentford,Crystal Palace,2,1,Away,W,3,7.0,10.0,8.0,2.0
+2025-02-02,Brentford,Tottenham,0,2,Home,L,0,7.0,9.0,7.0,2.0
+2025-02-15,Brentford,West Ham,1,0,Away,W,3,7.0,5.0,7.0,2.0
+2025-02-21,Brentford,Leicester,4,0,Away,W,3,9.0,7.0,5.0,3.0
+2025-02-26,Brentford,Everton,1,1,Home,D,1,10.0,8.0,4.0,3.0
+2025-03-08,Brentford,Aston Villa,0,1,Home,L,0,7.0,6.0,4.0,2.0
+2025-03-15,Brentford,Bournemouth,2,1,Away,W,3,10.0,8.0,3.0,3.0
+2025-04-02,Brentford,Newcastle,1,2,Away,L,0,7.0,8.0,5.0,2.0
+2025-04-06,Brentford,Chelsea,0,0,Home,D,1,5.0,4.0,5.0,1.0
+2025-04-12,Brentford,Arsenal,1,1,Away,D,1,5.0,4.0,5.0,1.0
+2025-04-19,Brentford,Brighton,4,2,Home,W,3,8.0,8.0,6.0,2.0
+2025-05-01,Brentford,Nott'm Forest,2,0,Away,W,3,8.0,8.0,5.0,2.0
+2025-05-04,Brentford,Man United,4,3,Home,W,3,11.0,11.0,6.0,3.0
+2025-05-10,Brentford,Ipswich,1,0,Away,W,3,13.0,12.0,6.0,4.0
+2025-05-18,Brentford,Fulham,2,3,Home,L,0,12.0,13.0,8.0,4.0
+2025-05-25,Brentford,Wolves,1,1,Away,D,1,10.0,10.0,7.0,3.0
+2024-08-18,Chelsea,Man City,0,2,Home,L,0,,,,
+2024-08-25,Chelsea,Wolves,6,2,Away,W,3,,,,
+2024-09-01,Chelsea,Crystal Palace,1,1,Home,D,1,,,,
+2024-09-14,Chelsea,Bournemouth,1,0,Away,W,3,,,,
+2024-09-21,Chelsea,West Ham,3,0,Away,W,3,10.0,11.0,5.0,3.0
+2024-09-28,Chelsea,Brighton,4,2,Home,W,3,13.0,15.0,5.0,4.0
+2024-10-06,Chelsea,Nott'm Forest,1,1,Home,D,1,11.0,10.0,4.0,3.0
+2024-10-20,Chelsea,Liverpool,1,2,Away,L,0,10.0,10.0,5.0,3.0
+2024-10-27,Chelsea,Newcastle,2,1,Home,W,3,10.0,11.0,6.0,3.0
+2024-11-03,Chelsea,Man United,1,1,Away,D,1,8.0,9.0,7.0,2.0
+2024-11-10,Chelsea,Arsenal,1,1,Home,D,1,6.0,6.0,6.0,1.0
+2024-11-23,Chelsea,Leicester,2,1,Away,W,3,8.0,7.0,6.0,2.0
+2024-12-01,Chelsea,Aston Villa,3,0,Home,W,3,11.0,9.0,4.0,3.0
+2024-12-04,Chelsea,Southampton,5,1,Away,W,3,11.0,12.0,4.0,3.0
+2024-12-08,Chelsea,Tottenham,4,3,Away,W,3,13.0,15.0,6.0,4.0
+2024-12-15,Chelsea,Brentford,2,1,Home,W,3,15.0,16.0,6.0,5.0
+2024-12-22,Chelsea,Everton,0,0,Away,D,1,13.0,14.0,5.0,4.0
+2024-12-26,Chelsea,Fulham,1,2,Home,L,0,10.0,12.0,7.0,3.0
+2024-12-30,Chelsea,Ipswich,0,2,Away,L,0,7.0,7.0,8.0,2.0
+2025-01-04,Chelsea,Crystal Palace,1,1,Away,D,1,5.0,4.0,6.0,1.0
+2025-01-14,Chelsea,Bournemouth,2,2,Home,D,1,3.0,4.0,7.0,0.0
+2025-01-20,Chelsea,Wolves,3,1,Home,W,3,5.0,7.0,8.0,1.0
+2025-01-25,Chelsea,Man City,1,3,Away,L,0,5.0,7.0,9.0,1.0
+2025-02-03,Chelsea,West Ham,2,1,Home,W,3,8.0,9.0,8.0,2.0
+2025-02-14,Chelsea,Brighton,0,3,Away,L,0,7.0,8.0,10.0,2.0
+2025-02-22,Chelsea,Aston Villa,1,2,Away,L,0,6.0,7.0,10.0,2.0
+2025-02-25,Chelsea,Southampton,4,0,Home,W,3,6.0,8.0,9.0,2.0
+2025-03-09,Chelsea,Leicester,1,0,Home,W,3,9.0,8.0,6.0,3.0
+2025-03-16,Chelsea,Arsenal,0,1,Away,L,0,6.0,6.0,6.0,2.0
+2025-04-03,Chelsea,Tottenham,1,0,Home,W,3,9.0,7.0,3.0,3.0
+2025-04-06,Chelsea,Brentford,0,0,Away,D,1,10.0,6.0,1.0,3.0
+2025-04-13,Chelsea,Ipswich,2,2,Home,D,1,8.0,4.0,3.0,2.0
+2025-04-20,Chelsea,Fulham,2,1,Away,W,3,8.0,5.0,4.0,2.0
+2025-04-26,Chelsea,Everton,1,0,Home,W,3,11.0,6.0,3.0,3.0
+2025-05-04,Chelsea,Liverpool,3,1,Home,W,3,11.0,8.0,4.0,3.0
+2025-05-11,Chelsea,Newcastle,0,2,Away,L,0,10.0,8.0,6.0,3.0
+2025-05-16,Chelsea,Man United,1,0,Home,W,3,12.0,7.0,4.0,4.0
+2025-05-25,Chelsea,Nott'm Forest,1,0,Away,W,3,12.0,6.0,3.0,4.0
+2024-08-19,Leicester,Tottenham,1,1,Home,D,1,,,,
+2024-08-24,Leicester,Fulham,1,2,Away,L,0,,,,
+2024-08-31,Leicester,Aston Villa,1,2,Home,L,0,,,,
+2024-09-14,Leicester,Crystal Palace,2,2,Away,D,1,,,,
+2024-09-21,Leicester,Everton,1,1,Home,D,1,3.0,6.0,8.0,0.0
+2024-09-28,Leicester,Arsenal,2,4,Away,L,0,2.0,7.0,11.0,0.0
+2024-10-05,Leicester,Bournemouth,1,0,Home,W,3,5.0,7.0,9.0,1.0
+2024-10-19,Leicester,Southampton,3,2,Away,W,3,8.0,9.0,9.0,2.0
+2024-10-25,Leicester,Nott'm Forest,1,3,Home,L,0,7.0,8.0,10.0,2.0
+2024-11-02,Leicester,Ipswich,1,1,Away,D,1,7.0,8.0,10.0,2.0
+2024-11-10,Leicester,Man United,0,3,Away,L,0,7.0,6.0,9.0,2.0
+2024-11-23,Leicester,Chelsea,1,2,Home,L,0,4.0,6.0,11.0,1.0
+2024-11-30,Leicester,Brentford,1,4,Away,L,0,1.0,4.0,13.0,0.0
+2024-12-03,Leicester,West Ham,3,1,Home,W,3,4.0,6.0,11.0,1.0
+2024-12-08,Leicester,Brighton,2,2,Home,D,1,4.0,7.0,12.0,1.0
+2024-12-14,Leicester,Newcastle,0,4,Away,L,0,4.0,7.0,13.0,1.0
+2024-12-22,Leicester,Wolves,0,3,Home,L,0,4.0,6.0,14.0,1.0
+2024-12-26,Leicester,Liverpool,1,3,Away,L,0,4.0,6.0,13.0,1.0
+2024-12-29,Leicester,Man City,0,2,Home,L,0,1.0,3.0,14.0,0.0
+2025-01-04,Leicester,Aston Villa,1,2,Away,L,0,0.0,2.0,14.0,0.0
+2025-01-15,Leicester,Crystal Palace,0,2,Home,L,0,0.0,2.0,12.0,0.0
+2025-01-18,Leicester,Fulham,0,2,Home,L,0,0.0,2.0,11.0,0.0
+2025-01-26,Leicester,Tottenham,2,1,Away,W,3,3.0,3.0,9.0,1.0
+2025-02-01,Leicester,Everton,0,4,Away,L,0,3.0,3.0,11.0,1.0
+2025-02-15,Leicester,Arsenal,0,2,Home,L,0,3.0,2.0,11.0,1.0
+2025-02-21,Leicester,Brentford,0,4,Home,L,0,3.0,2.0,13.0,1.0
+2025-02-27,Leicester,West Ham,0,2,Away,L,0,3.0,2.0,13.0,1.0
+2025-03-09,Leicester,Chelsea,0,1,Away,L,0,0.0,0.0,13.0,0.0
+2025-03-16,Leicester,Man United,0,3,Home,L,0,0.0,0.0,12.0,0.0
+2025-04-02,Leicester,Man City,0,2,Away,L,0,0.0,0.0,12.0,0.0
+2025-04-07,Leicester,Newcastle,0,3,Home,L,0,0.0,0.0,11.0,0.0
+2025-04-12,Leicester,Brighton,2,2,Away,D,1,1.0,2.0,11.0,0.0
+2025-04-20,Leicester,Liverpool,0,1,Home,L,0,1.0,2.0,11.0,0.0
+2025-04-26,Leicester,Wolves,0,3,Away,L,0,1.0,2.0,11.0,0.0
+2025-05-03,Leicester,Southampton,2,0,Home,W,3,4.0,4.0,9.0,1.0
+2025-05-11,Leicester,Nott'm Forest,2,2,Away,D,1,5.0,6.0,8.0,1.0
+2025-05-18,Leicester,Ipswich,2,0,Home,W,3,7.0,6.0,6.0,2.0
+2025-05-25,Leicester,Bournemouth,0,2,Away,L,0,7.0,6.0,7.0,2.0
+2024-08-17,Brighton,Everton,3,0,Away,W,3,,,,
+2024-08-24,Brighton,Man United,2,1,Home,W,3,,,,
+2024-08-31,Brighton,Arsenal,1,1,Away,D,1,,,,
+2024-09-14,Brighton,Ipswich,0,0,Home,D,1,,,,
+2024-09-22,Brighton,Nott'm Forest,2,2,Home,D,1,9.0,8.0,4.0,2.0
+2024-09-28,Brighton,Chelsea,2,4,Away,L,0,6.0,7.0,8.0,1.0
+2024-10-06,Brighton,Tottenham,3,2,Home,W,3,6.0,8.0,9.0,1.0
+2024-10-19,Brighton,Newcastle,1,0,Away,W,3,8.0,8.0,8.0,2.0
+2024-10-26,Brighton,Wolves,2,2,Home,D,1,8.0,10.0,10.0,2.0
+2024-11-02,Brighton,Liverpool,1,2,Away,L,0,7.0,9.0,10.0,2.0
+2024-11-09,Brighton,Man City,2,1,Home,W,3,10.0,9.0,7.0,3.0
+2024-11-23,Brighton,Bournemouth,2,1,Away,W,3,10.0,8.0,6.0,3.0
+2024-11-29,Brighton,Southampton,1,1,Home,D,1,8.0,8.0,7.0,2.0
+2024-12-05,Brighton,Fulham,1,3,Away,L,0,7.0,7.0,8.0,2.0
+2024-12-08,Brighton,Leicester,2,2,Away,D,1,8.0,8.0,8.0,2.0
+2024-12-15,Brighton,Crystal Palace,1,3,Home,L,0,5.0,7.0,10.0,1.0
+2024-12-21,Brighton,West Ham,1,1,Away,D,1,3.0,6.0,10.0,0.0
+2024-12-27,Brighton,Brentford,0,0,Home,D,1,3.0,5.0,9.0,0.0
+2024-12-30,Brighton,Aston Villa,2,2,Away,D,1,4.0,6.0,8.0,0.0
+2025-01-04,Brighton,Arsenal,1,1,Home,D,1,4.0,5.0,7.0,0.0
+2025-01-16,Brighton,Ipswich,2,0,Away,W,3,7.0,6.0,4.0,1.0
+2025-01-19,Brighton,Man United,3,1,Away,W,3,9.0,8.0,4.0,2.0
+2025-01-25,Brighton,Everton,0,1,Home,L,0,8.0,8.0,5.0,2.0
+2025-02-01,Brighton,Nott'm Forest,0,7,Away,L,0,7.0,6.0,10.0,2.0
+2025-02-14,Brighton,Chelsea,3,0,Home,W,3,9.0,8.0,9.0,3.0
+2025-02-22,Brighton,Southampton,4,0,Away,W,3,9.0,10.0,9.0,3.0
+2025-02-25,Brighton,Bournemouth,2,1,Home,W,3,9.0,9.0,9.0,3.0
+2025-03-08,Brighton,Fulham,2,1,Home,W,3,12.0,11.0,9.0,4.0
+2025-03-15,Brighton,Man City,2,2,Away,D,1,13.0,13.0,4.0,4.0
+2025-04-02,Brighton,Aston Villa,0,3,Home,L,0,10.0,10.0,7.0,3.0
+2025-04-05,Brighton,Crystal Palace,1,2,Away,L,0,7.0,7.0,9.0,2.0
+2025-04-12,Brighton,Leicester,2,2,Home,D,1,5.0,7.0,10.0,1.0
+2025-04-19,Brighton,Brentford,2,4,Away,L,0,2.0,7.0,13.0,0.0
+2025-04-26,Brighton,West Ham,3,2,Home,W,3,4.0,8.0,13.0,1.0
+2025-05-04,Brighton,Newcastle,1,1,Home,D,1,5.0,9.0,11.0,1.0
+2025-05-10,Brighton,Wolves,2,0,Away,W,3,8.0,10.0,9.0,2.0
+2025-05-19,Brighton,Liverpool,3,2,Home,W,3,10.0,11.0,9.0,3.0
+2025-05-25,Brighton,Tottenham,4,1,Away,W,3,13.0,13.0,6.0,4.0
+2024-08-18,Crystal Palace,Brentford,1,2,Away,L,0,,,,
+2024-08-24,Crystal Palace,West Ham,0,2,Home,L,0,,,,
+2024-09-01,Crystal Palace,Chelsea,1,1,Away,D,1,,,,
+2024-09-14,Crystal Palace,Leicester,2,2,Home,D,1,,,,
+2024-09-21,Crystal Palace,Man United,0,0,Home,D,1,3.0,4.0,7.0,0.0
+2024-09-28,Crystal Palace,Everton,1,2,Away,L,0,3.0,4.0,7.0,0.0
+2024-10-05,Crystal Palace,Liverpool,0,1,Home,L,0,3.0,4.0,6.0,0.0
+2024-10-21,Crystal Palace,Nott'm Forest,0,1,Away,L,0,2.0,3.0,6.0,0.0
+2024-10-27,Crystal Palace,Tottenham,1,0,Home,W,3,4.0,2.0,4.0,1.0
+2024-11-02,Crystal Palace,Wolves,2,2,Away,D,1,4.0,4.0,6.0,1.0
+2024-11-09,Crystal Palace,Fulham,0,2,Home,L,0,4.0,3.0,6.0,1.0
+2024-11-23,Crystal Palace,Aston Villa,2,2,Away,D,1,5.0,5.0,7.0,1.0
+2024-11-30,Crystal Palace,Newcastle,1,1,Home,D,1,6.0,6.0,7.0,1.0
+2024-12-03,Crystal Palace,Ipswich,1,0,Away,W,3,6.0,6.0,7.0,1.0
+2024-12-07,Crystal Palace,Man City,2,2,Home,D,1,6.0,6.0,7.0,1.0
+2024-12-15,Crystal Palace,Brighton,3,1,Away,W,3,9.0,9.0,6.0,2.0
+2024-12-21,Crystal Palace,Arsenal,1,5,Home,L,0,8.0,8.0,9.0,2.0
+2024-12-26,Crystal Palace,Bournemouth,0,0,Away,D,1,8.0,7.0,8.0,2.0
+2024-12-29,Crystal Palace,Southampton,2,1,Home,W,3,8.0,8.0,9.0,2.0
+2025-01-04,Crystal Palace,Chelsea,1,1,Home,D,1,8.0,7.0,8.0,2.0
+2025-01-15,Crystal Palace,Leicester,2,0,Away,W,3,8.0,6.0,7.0,2.0
+2025-01-18,Crystal Palace,West Ham,2,0,Away,W,3,11.0,7.0,2.0,3.0
+2025-01-26,Crystal Palace,Brentford,1,2,Home,L,0,10.0,8.0,4.0,3.0
+2025-02-02,Crystal Palace,Man United,2,0,Away,W,3,10.0,8.0,3.0,3.0
+2025-02-15,Crystal Palace,Everton,1,2,Home,L,0,9.0,8.0,4.0,3.0
+2025-02-22,Crystal Palace,Fulham,2,0,Away,W,3,9.0,8.0,4.0,3.0
+2025-02-25,Crystal Palace,Aston Villa,4,1,Home,W,3,9.0,10.0,5.0,3.0
+2025-03-08,Crystal Palace,Ipswich,1,0,Home,W,3,12.0,10.0,3.0,4.0
+2025-04-02,Crystal Palace,Southampton,1,1,Away,D,1,10.0,9.0,4.0,3.0
+2025-04-05,Crystal Palace,Brighton,2,1,Home,W,3,13.0,10.0,3.0,4.0
+2025-04-12,Crystal Palace,Man City,2,5,Away,L,0,10.0,10.0,8.0,3.0
+2025-04-16,Crystal Palace,Newcastle,0,5,Away,L,0,7.0,6.0,12.0,2.0
+2025-04-19,Crystal Palace,Bournemouth,0,0,Home,D,1,5.0,5.0,12.0,1.0
+2025-04-23,Crystal Palace,Arsenal,2,2,Away,D,1,5.0,6.0,13.0,1.0
+2025-05-05,Crystal Palace,Nott'm Forest,1,1,Home,D,1,3.0,5.0,13.0,0.0
+2025-05-11,Crystal Palace,Tottenham,2,0,Away,W,3,6.0,5.0,8.0,1.0
+2025-05-20,Crystal Palace,Wolves,4,2,Home,W,3,9.0,9.0,5.0,2.0
+2025-05-25,Crystal Palace,Liverpool,1,1,Away,D,1,9.0,10.0,6.0,2.0
+2024-08-16,Fulham,Man United,0,1,Away,L,0,,,,
+2024-08-24,Fulham,Leicester,2,1,Home,W,3,,,,
+2024-08-31,Fulham,Ipswich,1,1,Away,D,1,,,,
+2024-09-14,Fulham,West Ham,1,1,Home,D,1,,,,
+2024-09-21,Fulham,Newcastle,3,1,Home,W,3,8.0,7.0,5.0,2.0
+2024-09-28,Fulham,Nott'm Forest,1,0,Away,W,3,11.0,8.0,4.0,3.0
+2024-10-05,Fulham,Man City,2,3,Away,L,0,8.0,8.0,6.0,2.0
+2024-10-19,Fulham,Aston Villa,1,3,Home,L,0,7.0,8.0,8.0,2.0
+2024-10-26,Fulham,Everton,1,1,Away,D,1,7.0,8.0,8.0,2.0
+2024-11-04,Fulham,Brentford,2,1,Home,W,3,7.0,7.0,8.0,2.0
+2024-11-09,Fulham,Crystal Palace,2,0,Away,W,3,7.0,8.0,8.0,2.0
+2024-11-23,Fulham,Wolves,1,4,Home,L,0,7.0,7.0,9.0,2.0
+2024-12-01,Fulham,Tottenham,1,1,Away,D,1,8.0,7.0,7.0,2.0
+2024-12-05,Fulham,Brighton,3,1,Home,W,3,10.0,9.0,7.0,3.0
+2024-12-08,Fulham,Arsenal,1,1,Home,D,1,8.0,8.0,7.0,2.0
+2024-12-14,Fulham,Liverpool,2,2,Away,D,1,6.0,8.0,9.0,1.0
+2024-12-22,Fulham,Southampton,0,0,Home,D,1,7.0,7.0,5.0,1.0
+2024-12-26,Fulham,Chelsea,2,1,Away,W,3,9.0,8.0,5.0,2.0
+2024-12-29,Fulham,Bournemouth,2,2,Home,D,1,7.0,7.0,6.0,1.0
+2025-01-05,Fulham,Ipswich,2,2,Home,D,1,7.0,8.0,7.0,1.0
+2025-01-14,Fulham,West Ham,2,3,Away,L,0,6.0,8.0,8.0,1.0
+2025-01-18,Fulham,Leicester,2,0,Away,W,3,8.0,10.0,8.0,2.0
+2025-01-26,Fulham,Man United,0,1,Home,L,0,5.0,8.0,8.0,1.0
+2025-02-01,Fulham,Newcastle,2,1,Away,W,3,7.0,8.0,7.0,2.0
+2025-02-15,Fulham,Nott'm Forest,2,1,Home,W,3,9.0,8.0,6.0,3.0
+2025-02-22,Fulham,Crystal Palace,0,2,Home,L,0,9.0,6.0,5.0,3.0
+2025-02-25,Fulham,Wolves,2,1,Away,W,3,9.0,6.0,6.0,3.0
+2025-03-08,Fulham,Brighton,1,2,Away,L,0,9.0,7.0,7.0,3.0
+2025-03-16,Fulham,Tottenham,2,0,Home,W,3,9.0,7.0,6.0,3.0
+2025-04-01,Fulham,Arsenal,1,2,Away,L,0,6.0,6.0,7.0,2.0
+2025-04-06,Fulham,Liverpool,3,2,Home,W,3,9.0,9.0,7.0,3.0
+2025-04-14,Fulham,Bournemouth,0,1,Away,L,0,6.0,7.0,7.0,2.0
+2025-04-20,Fulham,Chelsea,1,2,Home,L,0,6.0,7.0,7.0,2.0
+2025-04-26,Fulham,Southampton,2,1,Away,W,3,6.0,7.0,8.0,2.0
+2025-05-03,Fulham,Aston Villa,0,1,Away,L,0,6.0,6.0,7.0,2.0
+2025-05-10,Fulham,Everton,1,3,Home,L,0,3.0,4.0,8.0,1.0
+2025-05-18,Fulham,Brentford,3,2,Away,W,3,6.0,7.0,9.0,2.0
+2025-05-25,Fulham,Man City,0,2,Home,L,0,6.0,6.0,9.0,2.0
+2024-08-18,Man City,Chelsea,2,0,Away,W,3,,,,
+2024-08-24,Man City,Ipswich,4,1,Home,W,3,,,,
+2024-08-31,Man City,West Ham,3,1,Away,W,3,,,,
+2024-09-14,Man City,Brentford,2,1,Home,W,3,,,,
+2024-09-22,Man City,Arsenal,2,2,Home,D,1,13.0,13.0,5.0,4.0
+2024-09-28,Man City,Newcastle,1,1,Away,D,1,11.0,12.0,6.0,3.0
+2024-10-05,Man City,Fulham,3,2,Home,W,3,11.0,11.0,7.0,3.0
+2024-10-20,Man City,Wolves,2,1,Away,W,3,11.0,10.0,7.0,3.0
+2024-10-26,Man City,Southampton,1,0,Home,W,3,11.0,9.0,6.0,3.0
+2024-11-02,Man City,Bournemouth,1,2,Away,L,0,10.0,8.0,6.0,3.0
+2024-11-09,Man City,Brighton,1,2,Away,L,0,9.0,8.0,7.0,3.0
+2024-11-23,Man City,Tottenham,0,4,Home,L,0,6.0,5.0,9.0,2.0
+2024-12-01,Man City,Liverpool,0,2,Away,L,0,3.0,3.0,10.0,1.0
+2024-12-04,Man City,Nott'm Forest,3,0,Home,W,3,3.0,5.0,10.0,1.0
+2024-12-07,Man City,Crystal Palace,2,2,Away,D,1,4.0,6.0,10.0,1.0
+2024-12-15,Man City,Man United,1,2,Home,L,0,4.0,6.0,10.0,1.0
+2024-12-21,Man City,Aston Villa,1,2,Away,L,0,4.0,7.0,8.0,1.0
+2024-12-26,Man City,Everton,1,1,Home,D,1,5.0,8.0,7.0,1.0
+2024-12-29,Man City,Leicester,2,0,Away,W,3,5.0,7.0,7.0,1.0
+2025-01-04,Man City,West Ham,4,1,Home,W,3,7.0,9.0,6.0,2.0
+2025-01-14,Man City,Brentford,2,2,Away,D,1,8.0,10.0,6.0,2.0
+2025-01-19,Man City,Ipswich,6,0,Away,W,3,11.0,15.0,4.0,3.0
+2025-01-25,Man City,Chelsea,3,1,Home,W,3,13.0,17.0,4.0,4.0
+2025-02-02,Man City,Arsenal,1,5,Away,L,0,10.0,16.0,9.0,3.0
+2025-02-15,Man City,Newcastle,4,0,Home,W,3,10.0,16.0,8.0,3.0
+2025-02-23,Man City,Liverpool,0,2,Home,L,0,9.0,14.0,8.0,3.0
+2025-02-26,Man City,Tottenham,1,0,Away,W,3,9.0,9.0,8.0,3.0
+2025-03-08,Man City,Nott'm Forest,0,1,Away,L,0,6.0,6.0,8.0,2.0
+2025-03-15,Man City,Brighton,2,2,Home,D,1,7.0,7.0,5.0,2.0
+2025-04-02,Man City,Leicester,2,0,Home,W,3,7.0,5.0,5.0,2.0
+2025-04-06,Man City,Man United,0,0,Away,D,1,8.0,5.0,3.0,2.0
+2025-04-12,Man City,Crystal Palace,5,2,Home,W,3,8.0,9.0,5.0,2.0
+2025-04-19,Man City,Everton,2,0,Away,W,3,11.0,11.0,4.0,3.0
+2025-04-22,Man City,Aston Villa,2,1,Home,W,3,13.0,11.0,3.0,4.0
+2025-05-02,Man City,Wolves,1,0,Home,W,3,13.0,10.0,3.0,4.0
+2025-05-10,Man City,Southampton,0,0,Away,D,1,13.0,10.0,3.0,4.0
+2025-05-20,Man City,Bournemouth,3,1,Home,W,3,13.0,8.0,2.0,4.0
+2025-05-25,Man City,Fulham,2,0,Away,W,3,13.0,8.0,2.0,4.0
+2024-08-17,Southampton,Newcastle,0,1,Away,L,0,,,,
+2024-08-24,Southampton,Nott'm Forest,0,1,Home,L,0,,,,
+2024-08-31,Southampton,Brentford,1,3,Away,L,0,,,,
+2024-09-14,Southampton,Man United,0,3,Home,L,0,,,,
+2024-09-21,Southampton,Ipswich,1,1,Home,D,1,1.0,2.0,9.0,0.0
+2024-09-30,Southampton,Bournemouth,1,3,Away,L,0,1.0,3.0,11.0,0.0
+2024-10-05,Southampton,Arsenal,1,3,Away,L,0,1.0,4.0,13.0,0.0
+2024-10-19,Southampton,Leicester,2,3,Home,L,0,1.0,5.0,13.0,0.0
+2024-10-26,Southampton,Man City,0,1,Away,L,0,1.0,5.0,11.0,0.0
+2024-11-02,Southampton,Everton,1,0,Home,W,3,3.0,5.0,10.0,1.0
+2024-11-09,Southampton,Wolves,0,2,Away,L,0,3.0,4.0,9.0,1.0
+2024-11-24,Southampton,Liverpool,2,3,Home,L,0,3.0,5.0,9.0,1.0
+2024-11-29,Southampton,Brighton,1,1,Away,D,1,4.0,4.0,7.0,1.0
+2024-12-04,Southampton,Chelsea,1,5,Home,L,0,4.0,5.0,11.0,1.0
+2024-12-07,Southampton,Aston Villa,0,1,Away,L,0,1.0,4.0,12.0,0.0
+2024-12-15,Southampton,Tottenham,0,5,Home,L,0,1.0,4.0,15.0,0.0
+2024-12-22,Southampton,Fulham,0,0,Away,D,1,2.0,2.0,12.0,0.0
+2024-12-26,Southampton,West Ham,0,1,Home,L,0,1.0,1.0,12.0,0.0
+2024-12-29,Southampton,Crystal Palace,1,2,Away,L,0,1.0,1.0,9.0,0.0
+2025-01-04,Southampton,Brentford,0,5,Home,L,0,1.0,1.0,13.0,0.0
+2025-01-16,Southampton,Man United,1,3,Away,L,0,1.0,2.0,11.0,0.0
+2025-01-19,Southampton,Nott'm Forest,2,3,Away,L,0,0.0,4.0,14.0,0.0
+2025-01-25,Southampton,Newcastle,1,3,Home,L,0,0.0,5.0,16.0,0.0
+2025-02-01,Southampton,Ipswich,2,1,Away,W,3,3.0,6.0,15.0,1.0
+2025-02-15,Southampton,Bournemouth,1,3,Home,L,0,3.0,7.0,13.0,1.0
+2025-02-22,Southampton,Brighton,0,4,Home,L,0,3.0,6.0,14.0,1.0
+2025-02-25,Southampton,Chelsea,0,4,Away,L,0,3.0,4.0,15.0,1.0
+2025-03-08,Southampton,Liverpool,1,3,Away,L,0,3.0,4.0,15.0,1.0
+2025-03-15,Southampton,Wolves,1,2,Home,L,0,0.0,3.0,16.0,0.0
+2025-04-02,Southampton,Crystal Palace,1,1,Home,D,1,1.0,3.0,14.0,0.0
+2025-04-06,Southampton,Tottenham,1,3,Away,L,0,1.0,4.0,13.0,0.0
+2025-04-12,Southampton,Aston Villa,0,3,Home,L,0,1.0,4.0,12.0,0.0
+2025-04-19,Southampton,West Ham,1,1,Away,D,1,2.0,4.0,10.0,0.0
+2025-04-26,Southampton,Fulham,1,2,Home,L,0,2.0,4.0,10.0,0.0
+2025-05-03,Southampton,Leicester,0,2,Away,L,0,1.0,3.0,11.0,0.0
+2025-05-10,Southampton,Man City,0,0,Home,D,1,2.0,2.0,8.0,0.0
+2025-05-18,Southampton,Everton,0,2,Away,L,0,2.0,2.0,7.0,0.0
+2025-05-25,Southampton,Arsenal,1,2,Home,L,0,1.0,2.0,8.0,0.0
+2024-08-19,Tottenham,Leicester,1,1,Away,D,1,,,,
+2024-08-24,Tottenham,Everton,4,0,Home,W,3,,,,
+2024-09-01,Tottenham,Newcastle,1,2,Away,L,0,,,,
+2024-09-15,Tottenham,Arsenal,0,1,Home,L,0,,,,
+2024-09-21,Tottenham,Brentford,3,1,Home,W,3,7.0,9.0,5.0,2.0
+2024-09-29,Tottenham,Man United,3,0,Away,W,3,9.0,11.0,4.0,3.0
+2024-10-06,Tottenham,Brighton,2,3,Away,L,0,6.0,9.0,7.0,2.0
+2024-10-19,Tottenham,West Ham,4,1,Home,W,3,9.0,12.0,6.0,3.0
+2024-10-27,Tottenham,Crystal Palace,0,1,Away,L,0,9.0,12.0,6.0,3.0
+2024-11-03,Tottenham,Aston Villa,4,1,Home,W,3,9.0,13.0,6.0,3.0
+2024-11-10,Tottenham,Ipswich,1,2,Home,L,0,6.0,11.0,8.0,2.0
+2024-11-23,Tottenham,Man City,4,0,Away,W,3,9.0,13.0,5.0,3.0
+2024-12-01,Tottenham,Fulham,1,1,Home,D,1,7.0,10.0,5.0,2.0
+2024-12-05,Tottenham,Bournemouth,0,1,Away,L,0,7.0,10.0,5.0,2.0
+2024-12-08,Tottenham,Chelsea,3,4,Home,L,0,4.0,9.0,8.0,1.0
+2024-12-15,Tottenham,Southampton,5,0,Away,W,3,7.0,13.0,6.0,2.0
+2024-12-22,Tottenham,Liverpool,3,6,Home,L,0,4.0,12.0,12.0,1.0
+2024-12-26,Tottenham,Nott'm Forest,0,1,Away,L,0,3.0,11.0,12.0,1.0
+2024-12-29,Tottenham,Wolves,2,2,Home,D,1,4.0,13.0,13.0,1.0
+2025-01-04,Tottenham,Newcastle,1,2,Home,L,0,4.0,11.0,11.0,1.0
+2025-01-15,Tottenham,Arsenal,1,2,Away,L,0,1.0,7.0,13.0,0.0
+2025-01-19,Tottenham,Everton,2,3,Away,L,0,1.0,6.0,10.0,0.0
+2025-01-26,Tottenham,Leicester,1,2,Home,L,0,1.0,7.0,11.0,0.0
+2025-02-02,Tottenham,Brentford,2,0,Away,W,3,3.0,7.0,9.0,1.0
+2025-02-16,Tottenham,Man United,1,0,Home,W,3,6.0,7.0,7.0,2.0
+2025-02-22,Tottenham,Ipswich,4,1,Away,W,3,9.0,10.0,6.0,3.0
+2025-02-26,Tottenham,Man City,0,1,Home,L,0,9.0,8.0,4.0,3.0
+2025-03-09,Tottenham,Bournemouth,2,2,Home,D,1,10.0,9.0,4.0,3.0
+2025-03-16,Tottenham,Fulham,0,2,Away,L,0,7.0,7.0,6.0,2.0
+2025-04-03,Tottenham,Chelsea,0,1,Away,L,0,4.0,6.0,7.0,1.0
+2025-04-06,Tottenham,Southampton,3,1,Home,W,3,4.0,5.0,7.0,1.0
+2025-04-13,Tottenham,Wolves,2,4,Away,L,0,4.0,7.0,10.0,1.0
+2025-04-21,Tottenham,Nott'm Forest,1,2,Home,L,0,3.0,6.0,10.0,1.0
+2025-04-27,Tottenham,Liverpool,1,5,Away,L,0,3.0,7.0,13.0,1.0
+2025-05-04,Tottenham,West Ham,1,1,Away,D,1,4.0,8.0,13.0,1.0
+2025-05-11,Tottenham,Crystal Palace,0,2,Home,L,0,1.0,5.0,14.0,0.0
+2025-05-16,Tottenham,Aston Villa,0,2,Away,L,0,1.0,3.0,12.0,0.0
+2025-05-25,Tottenham,Brighton,1,4,Home,L,0,1.0,3.0,14.0,0.0
+2024-08-17,Aston Villa,West Ham,2,1,Away,W,3,,,,
+2024-08-24,Aston Villa,Arsenal,0,2,Home,L,0,,,,
+2024-08-31,Aston Villa,Leicester,2,1,Away,W,3,,,,
+2024-09-14,Aston Villa,Everton,3,2,Home,W,3,,,,
+2024-09-21,Aston Villa,Wolves,3,1,Home,W,3,12.0,10.0,7.0,4.0
+2024-09-29,Aston Villa,Ipswich,2,2,Away,D,1,10.0,10.0,8.0,3.0
+2024-10-06,Aston Villa,Man United,0,0,Home,D,1,11.0,10.0,6.0,3.0
+2024-10-19,Aston Villa,Fulham,3,1,Away,W,3,11.0,11.0,6.0,3.0
+2024-10-26,Aston Villa,Bournemouth,1,1,Home,D,1,9.0,9.0,5.0,2.0
+2024-11-03,Aston Villa,Tottenham,1,4,Away,L,0,6.0,7.0,8.0,1.0
+2024-11-09,Aston Villa,Liverpool,0,2,Away,L,0,5.0,5.0,8.0,1.0
+2024-11-23,Aston Villa,Crystal Palace,2,2,Home,D,1,5.0,7.0,10.0,1.0
+2024-12-01,Aston Villa,Chelsea,0,3,Away,L,0,2.0,4.0,12.0,0.0
+2024-12-04,Aston Villa,Brentford,3,1,Home,W,3,4.0,6.0,12.0,1.0
+2024-12-07,Aston Villa,Southampton,1,0,Home,W,3,7.0,6.0,8.0,2.0
+2024-12-14,Aston Villa,Nott'm Forest,1,2,Away,L,0,7.0,7.0,8.0,2.0
+2024-12-21,Aston Villa,Man City,2,1,Home,W,3,9.0,7.0,7.0,3.0
+2024-12-26,Aston Villa,Newcastle,0,3,Away,L,0,9.0,7.0,7.0,3.0
+2024-12-30,Aston Villa,Brighton,2,2,Home,D,1,7.0,6.0,8.0,2.0
+2025-01-04,Aston Villa,Leicester,2,1,Home,W,3,7.0,7.0,9.0,2.0
+2025-01-15,Aston Villa,Everton,1,0,Away,W,3,10.0,7.0,7.0,3.0
+2025-01-18,Aston Villa,Arsenal,2,2,Away,D,1,8.0,7.0,8.0,2.0
+2025-01-26,Aston Villa,West Ham,1,1,Home,D,1,9.0,8.0,6.0,2.0
+2025-02-01,Aston Villa,Wolves,0,2,Away,L,0,8.0,6.0,6.0,2.0
+2025-02-15,Aston Villa,Ipswich,1,1,Home,D,1,6.0,5.0,6.0,1.0
+2025-02-19,Aston Villa,Liverpool,2,2,Home,D,1,4.0,6.0,8.0,0.0
+2025-02-22,Aston Villa,Chelsea,2,1,Home,W,3,6.0,6.0,7.0,1.0
+2025-02-25,Aston Villa,Crystal Palace,1,4,Away,L,0,5.0,6.0,10.0,1.0
+2025-03-08,Aston Villa,Brentford,1,0,Away,W,3,8.0,7.0,8.0,2.0
+2025-04-02,Aston Villa,Brighton,3,0,Away,W,3,10.0,9.0,7.0,3.0
+2025-04-05,Aston Villa,Nott'm Forest,2,1,Home,W,3,12.0,9.0,6.0,4.0
+2025-04-12,Aston Villa,Southampton,3,0,Away,W,3,12.0,10.0,5.0,4.0
+2025-04-19,Aston Villa,Newcastle,4,1,Home,W,3,15.0,13.0,2.0,5.0
+2025-04-22,Aston Villa,Man City,1,2,Away,L,0,12.0,13.0,4.0,4.0
+2025-05-03,Aston Villa,Fulham,1,0,Home,W,3,12.0,11.0,4.0,4.0
+2025-05-10,Aston Villa,Bournemouth,1,0,Away,W,3,12.0,10.0,3.0,4.0
+2025-05-16,Aston Villa,Tottenham,2,0,Home,W,3,12.0,9.0,3.0,4.0
+2025-05-25,Aston Villa,Man United,0,2,Away,L,0,9.0,5.0,4.0,3.0
+2024-08-17,Bournemouth,Nott'm Forest,1,1,Away,D,1,,,,
+2024-08-25,Bournemouth,Newcastle,1,1,Home,D,1,,,,
+2024-08-31,Bournemouth,Everton,3,2,Away,W,3,,,,
+2024-09-14,Bournemouth,Chelsea,0,1,Home,L,0,,,,
+2024-09-21,Bournemouth,Liverpool,0,3,Away,L,0,5.0,5.0,8.0,1.0
+2024-09-30,Bournemouth,Southampton,3,1,Home,W,3,7.0,7.0,8.0,2.0
+2024-10-05,Bournemouth,Leicester,0,1,Away,L,0,6.0,6.0,8.0,2.0
+2024-10-19,Bournemouth,Arsenal,2,0,Home,W,3,6.0,5.0,6.0,2.0
+2024-10-26,Bournemouth,Aston Villa,1,1,Away,D,1,7.0,6.0,6.0,2.0
+2024-11-02,Bournemouth,Man City,2,1,Home,W,3,10.0,8.0,4.0,3.0
+2024-11-09,Bournemouth,Brentford,2,3,Away,L,0,7.0,7.0,6.0,2.0
+2024-11-23,Bournemouth,Brighton,1,2,Home,L,0,7.0,8.0,7.0,2.0
+2024-11-30,Bournemouth,Wolves,4,2,Away,W,3,7.0,10.0,9.0,2.0
+2024-12-05,Bournemouth,Tottenham,1,0,Home,W,3,9.0,10.0,8.0,3.0
+2024-12-08,Bournemouth,Ipswich,2,1,Away,W,3,9.0,10.0,8.0,3.0
+2024-12-16,Bournemouth,West Ham,1,1,Home,D,1,10.0,9.0,6.0,3.0
+2024-12-22,Bournemouth,Man United,3,0,Away,W,3,13.0,11.0,4.0,4.0
+2024-12-26,Bournemouth,Crystal Palace,0,0,Home,D,1,11.0,7.0,2.0,3.0
+2024-12-29,Bournemouth,Fulham,2,2,Away,D,1,9.0,8.0,4.0,2.0
+2025-01-04,Bournemouth,Everton,1,0,Home,W,3,9.0,7.0,3.0,2.0
+2025-01-14,Bournemouth,Chelsea,2,2,Away,D,1,9.0,8.0,4.0,2.0
+2025-01-18,Bournemouth,Newcastle,4,1,Away,W,3,9.0,9.0,5.0,2.0
+2025-01-25,Bournemouth,Nott'm Forest,5,0,Home,W,3,11.0,14.0,5.0,3.0
+2025-02-01,Bournemouth,Liverpool,0,2,Home,L,0,10.0,12.0,5.0,3.0
+2025-02-15,Bournemouth,Southampton,3,1,Away,W,3,10.0,14.0,6.0,3.0
+2025-02-22,Bournemouth,Wolves,0,1,Home,L,0,9.0,12.0,5.0,3.0
+2025-02-25,Bournemouth,Brighton,1,2,Away,L,0,6.0,9.0,6.0,2.0
+2025-03-09,Bournemouth,Tottenham,2,2,Away,D,1,4.0,6.0,8.0,1.0
+2025-03-15,Bournemouth,Brentford,1,2,Home,L,0,4.0,7.0,8.0,1.0
+2025-04-02,Bournemouth,Ipswich,1,2,Home,L,0,1.0,5.0,9.0,0.0
+2025-04-05,Bournemouth,West Ham,2,2,Away,D,1,2.0,7.0,10.0,0.0
+2025-04-14,Bournemouth,Fulham,1,0,Home,W,3,5.0,7.0,8.0,1.0
+2025-04-19,Bournemouth,Crystal Palace,0,0,Away,D,1,5.0,5.0,6.0,1.0
+2025-04-27,Bournemouth,Man United,1,1,Home,D,1,6.0,5.0,5.0,1.0
+2025-05-03,Bournemouth,Arsenal,2,1,Away,W,3,9.0,6.0,4.0,2.0
+2025-05-10,Bournemouth,Aston Villa,0,1,Home,L,0,8.0,4.0,3.0,2.0
+2025-05-20,Bournemouth,Man City,1,3,Away,L,0,5.0,4.0,6.0,1.0
+2025-05-25,Bournemouth,Leicester,2,0,Home,W,3,7.0,6.0,6.0,2.0
+2024-08-17,Wolves,Arsenal,0,2,Away,L,0,,,,
+2024-08-25,Wolves,Chelsea,2,6,Home,L,0,,,,
+2024-08-31,Wolves,Nott'm Forest,1,1,Away,D,1,,,,
+2024-09-15,Wolves,Newcastle,1,2,Home,L,0,,,,
+2024-09-21,Wolves,Aston Villa,1,3,Away,L,0,1.0,5.0,14.0,0.0
+2024-09-28,Wolves,Liverpool,1,2,Home,L,0,1.0,6.0,14.0,0.0
+2024-10-05,Wolves,Brentford,3,5,Away,L,0,1.0,7.0,13.0,0.0
+2024-10-20,Wolves,Man City,1,2,Home,L,0,0.0,7.0,14.0,0.0
+2024-10-26,Wolves,Brighton,2,2,Away,D,1,1.0,8.0,14.0,0.0
+2024-11-02,Wolves,Crystal Palace,2,2,Home,D,1,2.0,9.0,13.0,0.0
+2024-11-09,Wolves,Southampton,2,0,Home,W,3,5.0,10.0,11.0,1.0
+2024-11-23,Wolves,Fulham,4,1,Away,W,3,8.0,11.0,7.0,2.0
+2024-11-30,Wolves,Bournemouth,2,4,Home,L,0,8.0,12.0,9.0,2.0
+2024-12-04,Wolves,Everton,0,4,Away,L,0,7.0,10.0,11.0,2.0
+2024-12-09,Wolves,West Ham,1,2,Away,L,0,6.0,9.0,11.0,2.0
+2024-12-14,Wolves,Ipswich,1,2,Home,L,0,3.0,8.0,13.0,1.0
+2024-12-22,Wolves,Leicester,3,0,Away,W,3,3.0,7.0,12.0,1.0
+2024-12-26,Wolves,Man United,2,0,Home,W,3,6.0,7.0,8.0,2.0
+2024-12-29,Wolves,Tottenham,2,2,Away,D,1,7.0,9.0,6.0,2.0
+2025-01-06,Wolves,Nott'm Forest,0,3,Home,L,0,7.0,8.0,7.0,2.0
+2025-01-15,Wolves,Newcastle,0,3,Away,L,0,7.0,7.0,8.0,2.0
+2025-01-20,Wolves,Chelsea,1,3,Away,L,0,4.0,5.0,11.0,1.0
+2025-01-25,Wolves,Arsenal,0,1,Home,L,0,1.0,3.0,12.0,0.0
+2025-02-01,Wolves,Aston Villa,2,0,Home,W,3,3.0,3.0,10.0,1.0
+2025-02-16,Wolves,Liverpool,1,2,Away,L,0,3.0,4.0,9.0,1.0
+2025-02-22,Wolves,Bournemouth,1,0,Away,W,3,6.0,5.0,6.0,2.0
+2025-02-25,Wolves,Fulham,1,2,Home,L,0,6.0,5.0,5.0,2.0
+2025-03-08,Wolves,Everton,1,1,Home,D,1,7.0,6.0,5.0,2.0
+2025-03-15,Wolves,Southampton,2,1,Away,W,3,7.0,6.0,6.0,2.0
+2025-04-01,Wolves,West Ham,1,0,Home,W,3,10.0,6.0,4.0,3.0
+2025-04-05,Wolves,Ipswich,2,1,Away,W,3,10.0,7.0,5.0,3.0
+2025-04-13,Wolves,Tottenham,4,2,Home,W,3,13.0,10.0,5.0,4.0
+2025-04-20,Wolves,Man United,1,0,Away,W,3,15.0,10.0,4.0,5.0
+2025-04-26,Wolves,Leicester,3,0,Home,W,3,15.0,11.0,3.0,5.0
+2025-05-02,Wolves,Man City,0,1,Away,L,0,12.0,10.0,4.0,4.0
+2025-05-10,Wolves,Brighton,0,2,Home,L,0,9.0,8.0,5.0,3.0
+2025-05-20,Wolves,Crystal Palace,2,4,Away,L,0,6.0,6.0,7.0,2.0
+2025-05-25,Wolves,Brentford,1,1,Home,D,1,4.0,6.0,8.0,1.0
+2024-08-17,Liverpool,Ipswich,2,0,Away,W,3,,,,
+2024-08-25,Liverpool,Brentford,2,0,Home,W,3,,,,
+2024-09-01,Liverpool,Man United,3,0,Away,W,3,,,,
+2024-09-14,Liverpool,Nott'm Forest,0,1,Home,L,0,,,,
+2024-09-21,Liverpool,Bournemouth,3,0,Home,W,3,12.0,10.0,1.0,4.0
+2024-09-28,Liverpool,Wolves,2,1,Away,W,3,12.0,10.0,2.0,4.0
+2024-10-05,Liverpool,Crystal Palace,1,0,Away,W,3,12.0,9.0,2.0,4.0
+2024-10-20,Liverpool,Chelsea,2,1,Home,W,3,12.0,8.0,3.0,4.0
+2024-10-27,Liverpool,Arsenal,2,2,Away,D,1,13.0,10.0,4.0,4.0
+2024-11-02,Liverpool,Brighton,2,1,Home,W,3,13.0,9.0,5.0,4.0
+2024-11-09,Liverpool,Aston Villa,2,0,Home,W,3,13.0,9.0,4.0,4.0
+2024-11-24,Liverpool,Southampton,3,2,Away,W,3,13.0,11.0,6.0,4.0
+2024-12-01,Liverpool,Man City,2,0,Home,W,3,13.0,11.0,5.0,4.0
+2024-12-04,Liverpool,Newcastle,3,3,Away,D,1,13.0,12.0,6.0,4.0
+2024-12-14,Liverpool,Fulham,2,2,Home,D,1,11.0,12.0,7.0,3.0
+2024-12-22,Liverpool,Tottenham,6,3,Away,W,3,11.0,16.0,10.0,3.0
+2024-12-26,Liverpool,Leicester,3,1,Home,W,3,11.0,16.0,9.0,3.0
+2024-12-29,Liverpool,West Ham,5,0,Away,W,3,11.0,19.0,9.0,3.0
+2025-01-05,Liverpool,Man United,2,2,Home,D,1,11.0,18.0,8.0,3.0
+2025-01-14,Liverpool,Nott'm Forest,1,1,Away,D,1,11.0,17.0,7.0,3.0
+2025-01-18,Liverpool,Brentford,2,0,Away,W,3,11.0,13.0,4.0,3.0
+2025-01-25,Liverpool,Ipswich,4,1,Home,W,3,11.0,14.0,4.0,3.0
+2025-02-01,Liverpool,Bournemouth,2,0,Away,W,3,11.0,11.0,4.0,3.0
+2025-02-12,Liverpool,Everton,2,2,Away,D,1,11.0,11.0,4.0,3.0
+2025-02-16,Liverpool,Wolves,2,1,Home,W,3,13.0,12.0,4.0,4.0
+2025-02-19,Liverpool,Aston Villa,2,2,Away,D,1,11.0,12.0,6.0,3.0
+2025-02-23,Liverpool,Man City,2,0,Away,W,3,11.0,10.0,5.0,3.0
+2025-02-26,Liverpool,Newcastle,2,0,Home,W,3,11.0,10.0,5.0,3.0
+2025-03-08,Liverpool,Southampton,3,1,Home,W,3,13.0,11.0,4.0,4.0
+2025-04-02,Liverpool,Everton,1,0,Home,W,3,13.0,10.0,3.0,4.0
+2025-04-06,Liverpool,Fulham,2,3,Away,L,0,12.0,10.0,4.0,4.0
+2025-04-13,Liverpool,West Ham,2,1,Home,W,3,12.0,10.0,5.0,4.0
+2025-04-20,Liverpool,Leicester,1,0,Away,W,3,12.0,9.0,5.0,4.0
+2025-04-27,Liverpool,Tottenham,5,1,Home,W,3,12.0,11.0,5.0,4.0
+2025-05-04,Liverpool,Chelsea,1,3,Away,L,0,9.0,11.0,8.0,3.0
+2025-05-11,Liverpool,Arsenal,2,2,Home,D,1,10.0,11.0,7.0,3.0
+2025-05-19,Liverpool,Brighton,2,3,Away,L,0,7.0,11.0,9.0,2.0
+2025-05-25,Liverpool,Crystal Palace,1,1,Home,D,1,5.0,11.0,10.0,1.0
